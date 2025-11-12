@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkurCode0&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ankurproj&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub trophies"/>
 </p>
 
 ---
