@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkurCode0&theme=tokyonight" alt="Ankur's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankurproj&theme=tokyonight" alt="Ankur's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurCode0&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurproj&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
