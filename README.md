@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankurproj&theme=tokyonight" alt="Ankur's GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkurCode0&theme=darkhub&no-frame=true&title=Commits,Repositories,Stars,Followers,Experience,PullRequest,Issues,Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ankurproj&theme=darkhub&no-frame=true&title=Commits,Repositories,Stars,Followers,Experience,PullRequest,Issues,Reviews" />
 </p>
 
 
