@@ -2,23 +2,13 @@
 
 <!--
 **ankurproj/ankurproj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Ankur Kumar</h1>
 <h3 align="center">🚀 A Full Stack Developer | MERN & Java Enthusiast | Student @ Pondicherry University</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkurCode0&label=Profile%20Views&color=0e75b6&style=flat" alt="AnkurCode0" />
+  <img src="https://komarev.com/ghpvc/?username=ankurproj&label=Profile%20Views&color=0e75b6&style=flat" alt="ankurproj" />
 </p>
 
 ---
@@ -35,7 +25,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🧰 Languages and Tools  
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
@@ -60,10 +50,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankurproj&theme=tokyonight" alt="Ankur's GitHub streak" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankurproj&theme=darkhub&no-frame=true&title=Commits,Repositories,Stars,Followers,Experience,PullRequest,Issues,Reviews" />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurproj&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -73,22 +59,31 @@ Here are some ideas to get you started:
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankurproj&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ankurproj&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub trophies" />
+</p>
+
+---
+
+### 🔥 Recent GitHub Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankurproj&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/ankur-kumar-j/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
-</a>
-<a href="mailto:ankur.code0@gmail.com" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" />
-</a>
-<a href="https://github.com/AnkurCode0" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="40" width="40" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/ankur-kumar-j/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ankur.code0@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ankurproj" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="40" width="40" />
+  </a>
 </p>
 
 ---
